@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeoHft&theme=dark&locale=fr)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoHft)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
